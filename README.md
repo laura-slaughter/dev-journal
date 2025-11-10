@@ -3,7 +3,11 @@ A collection of data science explorations including code, analysis, and reflecti
 
 
 # Overview of what I am working on
-This repository is a dev journal for my data science explorations in environmental and ecological contexts. I experiment with methods using open data, logic-based reasoning, statistical modeling, and machine learning.  I explore how to evaluate data for bias, integrate diverse sources, and build transparent, evidence-based insights through open science practices.
+This repository is a dev journal for various data science explorations. I will do some projects in environmental and ecological contexts. Others will be related to healthcare. I will implement methods using open data, logic-based reasoning, statistical modeling, and machine learning.  I explore how to evaluate data for bias, integrate diverse sources, and build transparent, evidence-based insights through open science practices.
+
+# Projects
+Ontology templates for Species Interaction Types
+- ROBOT or OTTR
 
 ## License
 - All **code** in this repository is licensed under the [MIT License](./LICENSE_CODE.md).
