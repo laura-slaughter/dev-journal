@@ -7,7 +7,7 @@ This repository is a dev journal for various data science explorations. I will d
 
 # Projects
 - Ontology templates for Species Interaction Types
-- 
+- 🔒 Evidence lines for ecology *(private)* Based on SEPIO framework
   
 ## License
 - All **code** in this repository is licensed under the [MIT License](./LICENSE_CODE.md).
